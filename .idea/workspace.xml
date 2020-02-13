@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8156edee-95e0-40bc-ab5f-70e456e914af" name="Default Changelist" comment="" />
+    <list default="true" id="8156edee-95e0-40bc-ab5f-70e456e914af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript笔记/基础/basics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/1概述.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript笔记/数据类型/1概述.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/2null,undefined和布尔值.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript笔记/数据类型/2null,undefined和布尔值.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/3数值.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript笔记/数据类型/3数值.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XhuiInkfxWZiqWO0Pp1AOpDAmb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,11 +37,13 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavaScript笔记" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/基础" />
     </key>
@@ -54,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581510772656</updated>
-      <workItem from="1581510776284" duration="12513000" />
+      <workItem from="1581510776284" duration="13011000" />
     </task>
     <servers />
   </component>

@@ -1,2 +1,2 @@
-# javascript note
- JavaScript学习笔记，参考阮一峰的教程
+# 前端开发技术学习笔记
+这是我的前端开发技术学习笔记，包含JS，CSS，react，Vue等
