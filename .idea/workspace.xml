@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8156edee-95e0-40bc-ab5f-70e456e914af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript笔记/数据类型/3数值.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript笔记/数据类型/3数值.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML笔记/基本语法.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML笔记/基础知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML笔记/标签.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML笔记/标签.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playground.html" beforeDir="false" afterPath="$PROJECT_DIR$/playground.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files/pics" />
       <recent name="$PROJECT_DIR$/JavaScript笔记" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/基础" />
@@ -63,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581510772656</updated>
-      <workItem from="1581510776284" duration="18406000" />
+      <workItem from="1581510776284" duration="29045000" />
     </task>
     <servers />
   </component>
@@ -87,5 +90,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1419" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581528305239" />
+    <state x="385" y="213" width="670" height="58" key="search.everywhere.popup" timestamp="1581660865030">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="58" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1581660865030" />
   </component>
 </project>
