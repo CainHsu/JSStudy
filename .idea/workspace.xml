@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8156edee-95e0-40bc-ab5f-70e456e914af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML笔记/基本语法.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML笔记/基础知识.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML笔记/标签.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML笔记/标签.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/playground.html" beforeDir="false" afterPath="$PROJECT_DIR$/playground.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -66,7 +65,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581510772656</updated>
-      <workItem from="1581510776284" duration="29045000" />
+      <workItem from="1581510776284" duration="29192000" />
+      <workItem from="1581730081129" duration="35000" />
+      <workItem from="1581730138291" duration="1943000" />
+      <workItem from="1581732892310" duration="5461000" />
     </task>
     <servers />
   </component>
@@ -74,22 +76,27 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="217" key="GridCell.Tab.0.bottom" timestamp="1581528305240">
+    <state width="1419" height="217" key="GridCell.Tab.0.bottom" timestamp="1581664021742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581528305240" />
-    <state width="1419" height="217" key="GridCell.Tab.0.center" timestamp="1581528305239">
+    <state width="1419" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581664021742" />
+    <state width="1419" height="217" key="GridCell.Tab.0.center" timestamp="1581664021741">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581528305239" />
-    <state width="1419" height="217" key="GridCell.Tab.0.left" timestamp="1581528305238">
+    <state width="1419" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581664021741" />
+    <state width="1419" height="217" key="GridCell.Tab.0.left" timestamp="1581664021741">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581528305238" />
-    <state width="1419" height="217" key="GridCell.Tab.0.right" timestamp="1581528305239">
+    <state width="1419" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581664021741" />
+    <state width="1419" height="217" key="GridCell.Tab.0.right" timestamp="1581664021742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581528305239" />
+    <state width="1419" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581664021742" />
+    <state x="200" y="100" key="SettingsEditor" timestamp="1581785591666">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="200" y="100" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581785591666" />
+    <state x="200" y="120" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1581730226596" />
     <state x="385" y="213" width="670" height="58" key="search.everywhere.popup" timestamp="1581660865030">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

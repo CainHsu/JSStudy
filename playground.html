@@ -4,7 +4,7 @@
     <meta charset="UTF-8";
           content="text/html";
           http-equiv="Content-Type">
-    <title>制作我的第一个网页</title>
+    <title>网页游乐场</title>
     <style type="text/css">
         table tr td,th{border: 1px solid chartreuse}
         span{
@@ -19,6 +19,37 @@
 
 <body>
     <h1>我是一级标题</h1>
+
+    <form method="post" action="save.php">
+        <label for="username">用户名:</label>
+        <input type="text"  name="username" id="username" value="" />
+        <label for="pass">密码:</label>
+        <input type="password"  name="pass" id="pass" value="" />
+        <input type="submit" value="确定"  name="submit" />
+        <input type="reset" value="重置" name="reset" /> <br>
+        <textarea name="文本域一号" cols="50" rows="10"> 这是一个文本域,用来输入多行文字 </textarea> <br>
+        <input type="radio" name="gender" id="男" value="1"> <label for="男">男</label>
+        <input type="radio" name="gender" value="2">女 <br>
+        <input type="checkbox" name="first" value="1" checked="checked">1
+        <input type="checkbox" name="second" value="2">2
+        <input type="checkbox" name="third" value="3">3 <br>
+        <select name="selectOp" multiple="multiple" >
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3" selected="selected">3</option>
+        </select> <br>
+        <input type="submit" value="按钮上显示的文字">
+        <input type="reset" value="重置">
+    </form>
+
+    <p><?php
+        echo 'PHP学到家，走到哪儿都不怕！';
+
+
+
+    ?></p>
+
+
     <h2>我是二级标题</h2>
     第一行 <br>
     第二行 <br>
@@ -29,7 +60,7 @@
         <address>
             这是一个网址 <a href="https://www.baidu.com/" target="_blank"></a> <br> <!-- 跳转到新的页面 -->
         </address>
-        <a href="https://www.baidu.com" title="鼠标放在按钮上显示的文字"> 按钮的文字 </a>
+        <a href="https://www.baidu.com" title="鼠标放在按钮上显示的文字"> 按钮的文字 </a> <br>
         <code>
             std::cout << "I love her." << std::endl;
         </code>
