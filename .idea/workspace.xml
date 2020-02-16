@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8156edee-95e0-40bc-ab5f-70e456e914af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS笔记/基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/CSS笔记/基础.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground.html" beforeDir="false" afterPath="$PROJECT_DIR$/playground.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playground.css" beforeDir="false" afterPath="$PROJECT_DIR$/playgrounds/playground.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playground.html" beforeDir="false" afterPath="$PROJECT_DIR$/playgrounds/playground.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playground.js" beforeDir="false" afterPath="$PROJECT_DIR$/playgrounds/playground.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/save.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +43,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/playgrounds" />
       <recent name="$PROJECT_DIR$/files/pics" />
       <recent name="$PROJECT_DIR$/JavaScript笔记" />
       <recent name="$PROJECT_DIR$" />
@@ -47,7 +51,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="playground.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/playground.js" working-dir="$PROJECT_DIR$">
+    <configuration name="playground.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/playgrounds/playground.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -69,7 +73,7 @@
       <workItem from="1581510776284" duration="29192000" />
       <workItem from="1581730081129" duration="35000" />
       <workItem from="1581730138291" duration="1943000" />
-      <workItem from="1581732892310" duration="13713000" />
+      <workItem from="1581732892310" duration="15401000" />
     </task>
     <servers />
   </component>
@@ -77,6 +81,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581835505029">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1581835505029" />
     <state width="1419" height="217" key="GridCell.Tab.0.bottom" timestamp="1581664021742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
