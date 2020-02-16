@@ -13,12 +13,37 @@
         code{
 
         }
-
+        #h1Class{
+            color: brown;
+        }
+        .h1Class{
+            color: cyan;
+        }
+        .subBottle>span{
+            color: chocolate;
+        }
+        .c1 span{
+            color: cadetblue;
+        }
+        .hoverDemo>a:hover{
+            color: rebeccapurple;
+            font-size: 50px;
+        }
     </style>
 </head>
 
 <body>
-    <h1>我是一级标题</h1>
+<h1> <span class="h1Class"> 我是 </span><span id="h1Class">一级</span>标题</h1>
+    <p class="subBottle">
+        这是一段用于演示<span>子选择器</span>的演示代码 <br>
+    </p>
+    <p class="hoverDemo">
+        <a href="https://www.baidu.com">百度</a>
+    </p>
+    <p class="c1">
+        This is <span>first</span> line <br>
+        This is <span>second</span> line
+    </p>
 
     <form method="post" action="save.php">
         <label for="username">用户名:</label>
@@ -42,12 +67,13 @@
         <input type="reset" value="重置">
     </form>
 
-    <p><?php
-        echo 'PHP学到家，走到哪儿都不怕！';
+    <p style="color: aqua">
+        这是一段用来试验CSS中p范围的代码，事实证明，CSS代码块结构和C++类似
+    </p>
 
-
-
-    ?></p>
+    <p>
+        这一段作用与上面一段相同，也是试验范围
+    </p>
 
 
     <h2>我是二级标题</h2>
