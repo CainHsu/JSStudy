@@ -29,17 +29,43 @@
             color: rebeccapurple;
             font-size: 50px;
         }
+        h1>.h1Class{
+            font-weight: bolder;
+            font-style: italic;
+            text-decoration: line-through;
+            letter-spacing: 1.5em;
+        }
+        .button{
+            width: 2em;
+            padding : .3em .8em;
+            border : .05em solid #446d88;
+            background : #58a linear-gradient(#77a0bb, #58a);
+            border-radius : .5em;
+            box-shadow : 0 .05em .25em gray;
+            color : white;
+            text-shadow : 0 -.05em .05em #335166;
+            font-size : 2em;
+            line-height : 1.5em;
+            position:fixed;
+            left:100px;
+            top:50px;
+        }
     </style>
 </head>
 
 <body>
-<h1> <span class="h1Class"> 我是 </span><span id="h1Class">一级</span>标题</h1>
+<h1> <span class="h1Class"> 我是 I'm </span><span id="h1Class">一级 class one</span>标题</h1>
     <p class="subBottle">
         这是一段用于演示<span>子选择器</span>的演示代码 <br>
     </p>
     <p class="hoverDemo">
         <a href="https://www.baidu.com">百度</a>
     </p>
+    <p class="button">
+        Yes!
+    </p>
+
+
     <p class="c1">
         This is <span>first</span> line <br>
         This is <span>second</span> line

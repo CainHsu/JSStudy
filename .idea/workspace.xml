@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8156edee-95e0-40bc-ab5f-70e456e914af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground.css" beforeDir="false" afterPath="$PROJECT_DIR$/playgrounds/playground.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground.html" beforeDir="false" afterPath="$PROJECT_DIR$/playgrounds/playground.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground.js" beforeDir="false" afterPath="$PROJECT_DIR$/playgrounds/playground.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/save.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playgrounds/playground.html" beforeDir="false" afterPath="$PROJECT_DIR$/playgrounds/playground.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +34,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/files/pics" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files/pics" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS笔记" />
       <recent name="$PROJECT_DIR$/playgrounds" />
       <recent name="$PROJECT_DIR$/files/pics" />
       <recent name="$PROJECT_DIR$/JavaScript笔记" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/基础" />
     </key>
   </component>
   <component name="RunManager">
@@ -73,7 +73,7 @@
       <workItem from="1581510776284" duration="29192000" />
       <workItem from="1581730081129" duration="35000" />
       <workItem from="1581730138291" duration="1943000" />
-      <workItem from="1581732892310" duration="15401000" />
+      <workItem from="1581732892310" duration="29392000" />
     </task>
     <servers />
   </component>
@@ -101,10 +101,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1419" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581664021742" />
-    <state x="200" y="100" key="SettingsEditor" timestamp="1581785591666">
+    <state x="200" y="100" key="SettingsEditor" timestamp="1581836611539">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="200" y="100" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581785591666" />
+    <state x="200" y="100" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581836611539" />
     <state x="200" y="120" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1581730226596" />
     <state x="385" y="195" width="670" height="158" key="search.everywhere.popup" timestamp="1581816947321">
       <screen x="0" y="0" width="1440" height="900" />
