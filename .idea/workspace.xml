@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8156edee-95e0-40bc-ab5f-70e456e914af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS笔记/水平居中与垂直居中.md" beforeDir="false" afterPath="$PROJECT_DIR$/CSS笔记/水平居中与垂直居中.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS笔记/盒模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/CSS笔记/盒模型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playgrounds/playground.html" beforeDir="false" afterPath="$PROJECT_DIR$/playgrounds/playground.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript笔记/数据类型/2null,undefined和布尔值.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript笔记/数据类型/2null,undefined和布尔值.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playgrounds/playground.js" beforeDir="false" afterPath="$PROJECT_DIR$/playgrounds/playground.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <workItem from="1581510776284" duration="29192000" />
       <workItem from="1581730081129" duration="35000" />
       <workItem from="1581730138291" duration="1943000" />
-      <workItem from="1581732892310" duration="37813000" />
+      <workItem from="1581732892310" duration="43941000" />
     </task>
     <servers />
   </component>
@@ -87,21 +86,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1581835505029" />
-    <state width="1419" height="217" key="GridCell.Tab.0.bottom" timestamp="1581664021742">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1419" height="140" key="GridCell.Tab.0.bottom" timestamp="1582303537590">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="140" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582303537590" />
     <state width="1419" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581664021742" />
-    <state width="1419" height="217" key="GridCell.Tab.0.center" timestamp="1581664021741">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1419" height="140" key="GridCell.Tab.0.center" timestamp="1582303537588">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="140" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582303537588" />
     <state width="1419" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581664021741" />
-    <state width="1419" height="217" key="GridCell.Tab.0.left" timestamp="1581664021741">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1419" height="140" key="GridCell.Tab.0.left" timestamp="1582303537587">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="140" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582303537587" />
     <state width="1419" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581664021741" />
-    <state width="1419" height="217" key="GridCell.Tab.0.right" timestamp="1581664021742">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1419" height="140" key="GridCell.Tab.0.right" timestamp="1582303537589">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="140" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582303537589" />
     <state width="1419" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581664021742" />
     <state x="200" y="100" key="SettingsEditor" timestamp="1581836611539">
       <screen x="0" y="0" width="1440" height="900" />

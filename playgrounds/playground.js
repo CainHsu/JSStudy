@@ -14,8 +14,10 @@ console.log(typeof (typeof 12))
 
 console.log(Number(undefined))
 
-console.log(0.2 === 0.3 - 0.1)
+console.log(3 == 2+1)
 
+var str = '\8'
+console.log(str)
 
 
 
