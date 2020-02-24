@@ -5,184 +5,36 @@
           content="text/html";
           http-equiv="Content-Type">
     <title>网页游乐场</title>
-    <style type="text/css">
-        table tr td,th{border: 1px solid chartreuse}
-        span{
-            color: chartreuse;
-        }
-        code{
+    <link rel="stylesheet" href="playground.css">
 
-        }
-        #h1Class{
-            color: brown;
-        }
-        .h1Class{
-            color: cyan;
-        }
-        .subBottle>span{
-            color: chocolate;
-        }
-        .c1 span{
-            color: cadetblue;
-        }
-        .hoverDemo>a:hover{
-            color: rebeccapurple;
-            font-size: 50px;
-        }
-        h1>.h1Class{
-            font-weight: bolder;
-            font-style: italic;
-            text-decoration: line-through;
-            letter-spacing: 1.5em;
-        }
-        .button{
-            width: 60px;
-            padding : .5em .8em;
-            border : .05em solid #446d88;
-            background : #58a linear-gradient(#77a0bb, #58a);
-            border-radius : .5em;
-            box-shadow : 0 .05em .25em gray;
-            color : white;
-            text-shadow : 0 -.05em .05em #335166;
-            font-size : 20px;
-            font-family: "Apple Symbols";
-            line-height : 1.5em;
-            /*position:fixed;*/
-            left:100px;
-            top:50px;
-            margin: 5em auto;
-        }
-        .inMiddle{
-            width: 10em;
-            border-radius: .4em;
-            border-top: .5em;
-            border-bottom: .5em;
-            font-size: 20px;
-            height: 2em;
-            margin: 4em auto;
-            padding-bottom: .5em;
-            padding-top: .5em;
-            background: #3bcfe7 linear-gradient(#36a5bd, #3bcfe7);
-            border-radius: .5em;
-            text-align: center;
-            position: fixed;
-            left: 0;
-            right: 0;
-            top: 0;
-            bottom: 0;
-
-        }
-        .inMiddle>span{
-            color: white;
-        }
-
-        .blocks{
-            width: 200px;
-            text-align: center;
-            background: #36a5bd;
-            left: 0;
-            right: 0;
-        }
-    </style>
 </head>
 
 <body>
-<h1> <span class="h1Class"> 我是 I'm </span><span id="h1Class">一级 class one</span>标题</h1>
-    <p class="subBottle">
-        这是一段用于演示<span>子选择器</span>的演示代码 <br>
-    </p>
-    <p class="hoverDemo">
-        <a href="https://www.baidu.com">百度</a>
-    </p>
-    <p class="button">
-        骚凹瑞
-    </p>
-    <p class="inMiddle">
-        <span>test</span>
-    </p>
 
-    <p class="blocks">
-        块状元素试验
-    </p>
-
-
-    <p class="c1">
-        This is <span>first</span> line <br>
-        This is <span>second</span> line
-    </p>
-
-    <form method="post" action="save.php">
-        <label for="username">用户名:</label>
-        <input type="text"  name="username" id="username" value="" />
-        <label for="pass">密码:</label>
-        <input type="password"  name="pass" id="pass" value="" />
-        <input type="submit" value="确定"  name="submit" />
-        <input type="reset" value="重置" name="reset" /> <br>
-        <textarea name="文本域一号" cols="50" rows="10"> 这是一个文本域,用来输入多行文字 </textarea> <br>
-        <input type="radio" name="gender" id="男" value="1"> <label for="男">男</label>
-        <input type="radio" name="gender" value="2">女 <br>
-        <input type="checkbox" name="first" value="1" checked="checked">1
-        <input type="checkbox" name="second" value="2">2
-        <input type="checkbox" name="third" value="3">3 <br>
-        <select name="selectOp" multiple="multiple" >
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3" selected="selected">3</option>
-        </select> <br>
-        <input type="submit" value="按钮上显示的文字">
-        <input type="reset" value="重置">
-    </form>
-
-    <p style="color: aqua">
-        这是一段用来试验CSS中p范围的代码，事实证明，CSS代码块结构和C++类似
-    </p>
-
-    <p>
-        这一段作用与上面一段相同，也是试验范围
-    </p>
-
-
-    <h2>我是二级标题</h2>
-    第一行 <br>
-    第二行 <br>
-    第三行 <br>
-    我是无情的&nbsp; <span>空格</span>
-    <hr>
-    <div id="blockA">
-        <address>
-            这是一个网址 <a href="https://www.baidu.com/" target="_blank"></a> <br> <!-- 跳转到新的页面 -->
-        </address>
-        <a href="https://www.baidu.com" title="鼠标放在按钮上显示的文字"> 按钮的文字 </a> <br>
-        <code>
-            std::cout << "I love her." << std::endl;
-        </code>
-        <table summary="这是表格的简介">
-            <caption>这是一个标题</caption>
-            <tr>
-                <th>(1,1)</th>
-                <th>(2,1)</th>
-                <th>(3,1)</th>
-            </tr>
-            <tr>
-                <td>(1,2)</td>
-                <td>(2,2)</td>
-            </tr>
-            <tr>
-                <td>(1,3)</td>
-                <td>(2,3)</td>
-                <td><a href="mailto:example@qq.com?subject=subject&body=body"> 发邮件 </a></td>
-            </tr>
-        </table>
+    <div class="borderSample">
+        <p>
+            准备好展开您的旅程，在星际间探索、发掘多样物种，并与其互动。派出科学飞船进行探索调查，并让建筑飞船在新发现的星球周边建设基地站，打造您的星系帝国。
+            为您的国度确立发展方向的同时，发掘埋藏的秘宝和星系奇观，为探险者设下限制和进化条件。您会在过程中建立互助的联盟，也会面临战争爆发的情况。
+        </p>
+        <p>
+            如同我们推出的其他大战略游戏，这趟冒险将随时间逐步进化。此外，所有现行的 Paradox 游戏都包含免费更新，因此您能持续利用新科技和新功能壮大及扩张您的帝国。
+            您会在星辰之外发现什么新事物呢？这个问题只能由您来解答。
+        </p>
     </div>
 
-    <div id="blockB">
-    <blockquote>
-        第一行注释 <br>
-        第二行注释 <br>
-        <span>
-            这是一行要变色的文字
-        </span>
-    </blockquote>
+
+    <div style="left: 200px; /*position: absolute*/ margin: 5px">
+        <label for="inputName">姓名：</label>
+        <input type="text" id="inputName" style="border: none; border-bottom: solid; border-bottom-width: thin">
     </div>
+
+    <div class="boxSample">
+        <p>
+            如同我们推出的其他大战略游戏，这趟冒险将随时间逐步进化。此外，所有现行的 Paradox 游戏都包含免费更新，因此您能持续利用新科技和新功能壮大及扩张您的帝国。
+            您会在星辰之外发现什么新事物呢？这个问题只能由您来解答。
+        </p>
+    </div>
+
+
 </body>
 </html>
