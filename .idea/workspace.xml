@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8156edee-95e0-40bc-ab5f-70e456e914af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDemo/CSS/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDemo/CSS/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDemo/image/wumingnvlang.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDemo/image/wumingnvlang.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDemo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDemo/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebSiteDemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebSiteDemo/image" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -46,6 +49,8 @@
       <recent name="$PROJECT_DIR$/JavaScript笔记" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebSiteDemo/image" />
+      <recent name="$PROJECT_DIR$/CSS笔记" />
       <recent name="$PROJECT_DIR$/WebSiteDemo" />
       <recent name="$PROJECT_DIR$/files/pics" />
       <recent name="$PROJECT_DIR$/playgrounds" />
@@ -75,7 +80,7 @@
       <workItem from="1581730081129" duration="35000" />
       <workItem from="1581730138291" duration="1943000" />
       <workItem from="1581732892310" duration="52100000" />
-      <workItem from="1582365335831" duration="33344000" />
+      <workItem from="1582365335831" duration="43586000" />
     </task>
     <servers />
   </component>
