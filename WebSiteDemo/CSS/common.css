@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/*设置header的格式*/
+.header{
+    margin: 25px auto 0px 50px;
+}
+
+/*设置"内容分类"菜单表单整体的格式*/
+.header>.menu>ul{
+    display: none;
+    list-style: none;       /*不显示列表左侧的圆点*/
+}
+
+/*设置"内容分类"菜单表单内容文字的格式*/
+.header>.menu>ul>li{
+    margin-top: 20px;
+    text-align: center;
+}
+
+/*设置"内容分类"四个字的格式*/
+.header>.menu>.menu_title{
+    border-bottom: black solid 1px;
+    padding-bottom: 20px;
+    width: 80px;
+    text-align: center;
+}
+
+/*所有的超链接格式*/
+a{
+    text-decoration: none;
+    color: black;
+}
+
+/*设置logo图片的格式*/
+.header>.logo{
+    float: left;
+    position: relative;
+}
+
+/*设置"内容分类"这个菜单的整体格式*/
+.header>.menu{
+    float: left;
+    position: relative;
+    margin-top: 12px;
+    margin-left: 16px;
+}
+
+.header>.auth{
+    float: right;
+}
+
+.header>.auth>ul>li{
+    list-style: none;
+    float: left;
+    margin-right: 50px;
+    margin-top: 12px;
+}

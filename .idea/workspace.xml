@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8156edee-95e0-40bc-ab5f-70e456e914af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS笔记/布局模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/CSS笔记/布局模型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS笔记/盒模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/CSS笔记/盒模型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML笔记/交互.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML笔记/交互.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML笔记/标签.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML笔记/标签.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playgrounds/playground.css" beforeDir="false" afterPath="$PROJECT_DIR$/playgrounds/playground.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playgrounds/playground.html" beforeDir="false" afterPath="$PROJECT_DIR$/playgrounds/playground.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playgrounds/playground.js" beforeDir="false" afterPath="$PROJECT_DIR$/playgrounds/playground.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playgrounds/test.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +12,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -41,19 +33,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/files/pics" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebSiteDemo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebSiteDemo" />
       <recent name="$PROJECT_DIR$/CSS笔记" />
       <recent name="$PROJECT_DIR$/playgrounds" />
       <recent name="$PROJECT_DIR$/files/pics" />
       <recent name="$PROJECT_DIR$/JavaScript笔记" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebSiteDemo" />
       <recent name="$PROJECT_DIR$/files/pics" />
       <recent name="$PROJECT_DIR$/playgrounds" />
     </key>
@@ -82,7 +75,7 @@
       <workItem from="1581730081129" duration="35000" />
       <workItem from="1581730138291" duration="1943000" />
       <workItem from="1581732892310" duration="52100000" />
-      <workItem from="1582365335831" duration="25369000" />
+      <workItem from="1582365335831" duration="33344000" />
     </task>
     <servers />
   </component>
