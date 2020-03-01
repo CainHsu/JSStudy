@@ -1,39 +1,6 @@
-*{
-    margin:0px 0px 0px 0px;
-}
+.img{
 
-.borderSample{
-    background: bisque;
-    border-bottom: solid;
-    border-bottom-color: cornflowerblue;
-    border-left-width: 0px;
+    overflow: hidden;
 
-    outline: dotted; /* outline在border外围 */
-    outline-color: brown;
-
-    width: 15em;
-    height: 15em;
-
-    box-sizing: border-box;
-
-    overflow: auto;
-
-    font-size: 15px;
-
-    padding-left: 1em;
-    padding-right: 1em;
-    /*position: absolute;*/
-    margin: 1em;
-}
-
-.boxSample{
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-left: 0px;
-    margin-bottom: 0px;
-    background-color: blue;
-
-    padding: 10px 15px;
-    color: white;
 }
 
